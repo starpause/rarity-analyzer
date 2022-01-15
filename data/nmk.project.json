@@ -1,0 +1,23 @@
+{
+  "name": "NEAR Meerkat Kingdom",
+  "symbol": "NMK",
+  "description": "NEAR Meerkat Kingdom is a collection of 5k generative Meerkats who live in a Kingdom inside the NEAR blockchain",
+  "image": "https://i.ibb.co/X5nNJx6/f9c682dd-98c3-44ec-8201-d275d4c05b60.png",
+  "external_link": "https://meerkatkingdom.com/",
+  "contract": "https://explorer.near.org/accounts/nmkmint.near",
+  "links": {
+      "openSea": "https://opensea.io/collection/boredapeyachtclub",
+      "twitter": "https://twitter.com/nearmkingdom",
+      "discord": "https://paras.id/collection/nmkmint.near"
+  },
+  "theme": {
+      "isDark": true,
+      "back": "#112233",
+      "primary": "#FFBB22",
+      "secondary": "#BEC61A",
+      "highlight": "#FFC61A",
+      "borderWidth": "2px",
+      "borderRadius": "8px",
+      "boxShadowWidth": "8px"
+  }
+}
